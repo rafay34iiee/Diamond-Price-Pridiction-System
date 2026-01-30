@@ -1,0 +1,8 @@
+# Requirements for Diamond Price Prediction GUI
+# Minimal necessary libraries for GUI, data handling, plotting, and ML
+customtkinter
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
